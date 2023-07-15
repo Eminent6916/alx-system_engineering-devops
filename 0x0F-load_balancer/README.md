@@ -42,9 +42,9 @@ The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 The second line of all your Bash scripts should be a comment explaining what is the script doing
 Your servers
 Name	Username	IP	State	
-185716-web-01	ubuntu	100.25.152.225	running	
-185716-web-02	ubuntu	3.85.196.122	running	
-185716-lb-01	ubuntu	54.152.187.252	running	
+170117-web-01	ubuntu	18.***.*	running	
+170117-web-02	ubuntu	            running	
+170117-lb-01	ubuntu	            running	
 Tasks
 0. Double the number of webservers
 mandatory
